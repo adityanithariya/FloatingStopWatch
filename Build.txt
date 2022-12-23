@@ -1,0 +1,4 @@
+virtualenv StopWatch
+.\StopWatch\Scripts\activate
+pip install pillow tk pygame pyinstaller
+pyinstaller --onefile -n "Floating Stop Watch" --add-data ".\libmpg123-0.dll;." --add-data ".\chime.mp3;." --add-data ".\Images\;Images\" .\StopWatch.py --version-file version.txt
