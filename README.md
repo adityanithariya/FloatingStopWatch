@@ -52,4 +52,5 @@ You can use shortcuts from the console window, like:<br>
 
 ## Releases
 
-You can access executable for `Windows` in `dist/` and run it directly without the development environment.
+You can check out releases [here](https://github.com/adityanithariya/FloatingStopWatch/releases/tag/v1.0.0). <br>
+You can download executables for [windows](https://github.com/adityanithariya/FloatingStopWatch/releases/download/v1.0.0/Floating.Stopwatch-win-x64.exe) and [linux](https://github.com/adityanithariya/FloatingStopWatch/releases/download/v1.0.0/Floating.Stopwatch).
